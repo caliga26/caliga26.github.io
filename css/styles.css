@@ -1,0 +1,148 @@
+.img-container {
+  background-color: green;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(7, 14.2857143%);
+  grid-template-rows: 800px;
+  background-color: aqua;
+}
+
+.grid-guy {
+  display: grid;
+  grid-template-columns: repeat(3, 16.67%) 21.4% repeat(3, 4.765%) 14.295%;
+}
+
+.grid-item {
+  /* border: 1px solid black; */
+}
+
+.sm {
+  height: 100px;
+}
+
+.bars-of-doom1 {
+  border: 1px solid black;
+  height: 700px;
+}
+
+.bars-of-doom2 {
+  height: 100px;
+}
+
+.bar-of-doom {
+/*   border: 1px solid black; */
+}
+
+.one {
+  background-color: grey;
+}
+
+.two {
+  background-color: gold;
+}
+
+.three {
+  background-color: aqua;
+}
+
+.four {
+  background-color: limegreen;
+}
+
+.five {
+  background-color: magenta;
+}
+
+.other-thing {
+  display: inline-block;
+  position: absolute;
+  background-color: black;
+  left: 35%;
+  right: auto;
+  top: 50%;
+  bottom: auto;
+  border: 1px solid black;
+  font-size: 24px;
+}
+
+.text {
+  border: 1px solid rgb(14, 19, 14);
+  padding: 20px;
+  font-size: 3em;
+  font-family: VT323;
+  color: white;
+}
+
+.six {
+  background-color: red;
+}
+
+.seven {
+  background-color: blue;
+}
+
+.eight {
+  background-color: blue;
+}
+
+.nine {
+  background-color: black;
+}
+
+.ten {
+  background-color: magenta;
+}
+
+.eleven {
+  background-color: black;
+}
+
+.twelve {
+  background-color: aqua;
+}
+
+.thirteen {
+  background-color: black;
+}
+
+.fourteen {
+  background-color: grey;
+}
+
+.fifteen {
+  background-color: navy;
+  height: 200px;
+}
+
+.sixteen {
+  background-color :white;
+  height: 200px;
+}
+
+.seventeen {
+  background-color: #32174d;
+  height: 200px;
+}
+
+.eighteen {
+  background-color: #121212;
+  height: 200px;
+}
+
+.nineteen1 {
+  background-color: black;
+}
+
+.nineteen2 {
+  background-color: #121212;
+}
+
+.nineteen3 {
+  background-color: #595858;
+}
+
+.twenty {
+  background-color: #121212;
+}
